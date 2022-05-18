@@ -1,6 +1,6 @@
 # Emoji Data Search 🐱‍💻
 
-![index]([https://github.com/Daniels-not/Contact_Manager-ASP.NET-CORE/blob/master/1.PNG](https://github.com/Daniels-not/Emoji-Data-Search/blob/master/preview.PNG)) 
+![index](https://github.com/Daniels-not/Emoji-Data-Search/blob/master/preview.PNG) 
 
 ## Instructions 📑
 
